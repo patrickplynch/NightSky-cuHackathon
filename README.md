@@ -3,7 +3,7 @@
 Night Sky:
 
 simple use of the echoAR manager and a little bit of object creation to make a midnight sky.
-use the link: https://go.echoar.xyz/BFQy to get to the model. On your phone you will be able to
+Use the link: https://go.echoar.xyz/BFQy to get to the model. On your phone you will be able to
 use the AR functionality, and if you view the link on your computer then you'll just see the 
 object that we created itself.
 
